@@ -24,6 +24,6 @@ The maturity of a DevOps project relies not only on tools and processes but also
 - [DevOps Culture]()
 - [DevOps Maturity Rating Experience]()
 - [Demo]()
-- [Main Contributors](https://github.com/inspursoft/DevOps/graphs/contributors)
+- [Main Contributors](https://github.com/21vianet/DevOps/graphs/contributors)
 - [CONTRIBUTING ways](CONTRIBUTING.md)
 - [Open Source Protocol](LICENSE)
