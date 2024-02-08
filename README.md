@@ -1,6 +1,10 @@
+[English Version Link](README_EN.md)
+
 # DevOps能力成熟度评级经验分享
 
 我们团队从2019年开始参加了中国信通院《DevOps能力成熟度》认证工作，取得了一些成绩，也存在着不足。在这里会记录下团队参与评级的过程，包括文档、工具、流程以及优势不足等等相关的信息。主要目的是分享我们参与认证时遇到的问题和解决方案，也欢迎大家贡献自己的经验。希望这些信息可以帮助您的团队顺利完成评级认证工作。
+
+Our team started participating in the “DevOps Capability Maturity” certification work in 2019 and achieved some results while also identifying areas for improvement. The purpose of the text is to record the team’s participation in the rating process, including information related to documents, tools, processes, strengths, and weaknesses. The main goal is to share the problems encountered and solutions found during the certification process and to welcome contributions from others’ experiences. The hope is that this information can help other teams smoothly complete the certification work.
 
 <img alt="DevOps Lab" width="800" src="docs/imgs/devops_lab.png">
 
